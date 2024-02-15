@@ -39,3 +39,8 @@ FastAPI automatically generates API documentation upon running.
 
 http://localhost/redoc
 
+
+## License
+
+Under the terms of the [MIT License](https://opensource.org/license/MIT/). Copyright (c) 2024 Kei Sawamura (a.k.a keix)
+
